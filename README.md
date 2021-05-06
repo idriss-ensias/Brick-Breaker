@@ -3,7 +3,7 @@
 ### Small Javascript brick breaker game
 #### Tested only on Firefox
 
-The game is customizable (lines 14 to 67), and you can change :
+The game is customizable (file BRICKS.js), and you can change :
  - Size of the game canvas, board, ball, bricks, brick protection, presents, effects (explosion, fire trail)
  - Sounds played 
  - Colors used
