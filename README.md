@@ -2,7 +2,8 @@
 ## press space key to launch the ball, left and right direction keys to move the board 
 ### Small Javascript brick breaker game
 #### Tested only on Firefox
-The game is customizable, and you can change :
+
+The game is customizable (lines 14 to 67), and you can change :
  - Size of the game canvas, board, ball, bricks, brick protection, presents, effects (explosion, fire trail)
  - Sounds played 
  - Colors used
