@@ -1,7 +1,6 @@
 # Brick-Breaker
-## press space key to launch the ball, left and right direction keys to move the board 
-### Small Javascript brick breaker game
-#### Tested only on Firefox, Windows 10
+## Small Javascript brick breaker game, tested only on Firefox, Windows 10
+### press space key to launch the ball, left and right direction keys to move the board 
 
 The game is customizable (file BRICKS.js), and you can change :
  - Size of the game canvas, board, ball, bricks, brick protection, presents, effects (explosion, fire trail)
